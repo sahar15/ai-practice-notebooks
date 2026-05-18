@@ -6,3 +6,4 @@ This repository contains my practice work and experiments while learning AI and 
 - NumPy
 - Matplotlib
 - Data Visualization
+- Linear Regression
